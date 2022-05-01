@@ -1,16 +1,45 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    h1 {
+        @apply text-4xl font-bold mb-3;
+    }
+    h2 {
+        @apply text-3xl font-bold mb-3;
+    }
+    h3 {
+        @apply text-2xl font-bold mb-3;
+    }
+    h4 {
+        @apply text-xl font-bold mb-3;
+    }
+    h5 {
+        @apply text-lg font-bold mb-3;
+    }
+    h6 {
+        @apply font-bold mb-3;
+    }
+    a {
+        @apply underline underline-offset-1 decoration-1;
+    }
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+@font-face {
+    font-family: Oxanium;
+    font-weight: 200 800;
+    font-style: normal;
+    src: url('/fonts/oxanium-vrb.ttf') format('truetype');
 }
 
-* {
-  box-sizing: border-box;
+@font-face {
+    font-family: 'Richardson Brand Accelerator';
+    font-weight: bold;
+    font-style: oblique;
+    src: url('/fonts/richardson-brand-accelerator.ttf') format('truetype');
+}
+
+:root {
+    color-scheme: dark;
 }

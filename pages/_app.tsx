@@ -1,8 +1,19 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import React from 'react';
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+import { Navbar } from '../components/Navbar';
+import { Footer } from '../components/Footer';
+import '../styles/globals.css';
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
-}
+const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => (
+    <div className="flex flex-col h-screen">
+        <Head>
+            <title>TechKnights | Team 334</title>
+        </Head>
+        <Navbar />
+        <Component {...pageProps} />
+        <Footer />
+    </div>
+);
 
-export default MyApp
+export default MyApp;
