@@ -1,6 +1,9 @@
 import React, { HTMLProps, useCallback, useEffect, useRef } from 'react';
+import NextImage from 'next/image';
+import classNames from 'classnames';
+import firstFrame from '../public/media/ultor/01.png';
 
-export const Ultor: React.FC<HTMLProps<HTMLCanvasElement>> = ({ ...other }) => {
+export const Ultor: React.FC<HTMLProps<HTMLCanvasElement>> = ({ className }) => {
     const canvasRef = useRef<HTMLCanvasElement>(null);
     const requestIdRef = useRef<number | null>(null);
 
@@ -52,7 +55,14 @@ export const Ultor: React.FC<HTMLProps<HTMLCanvasElement>> = ({ ...other }) => {
         };
     }, [updateFrame]);
 
+    if (!frames) {
+        return (
+            <div className={classNames('relative', className)}>
+                <NextImage priority src={firstFrame} alt="Ultor" width={1000} height={1000} />
+            </div>
+        );
+    }
     return (
-        <canvas width={1000} height={1000} ref={canvasRef} {...other} />
+        <canvas className={className} width={1000} height={1000} ref={canvasRef} />
     );
 };

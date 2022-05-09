@@ -37,7 +37,7 @@ const Home: NextPage = () => (
             <div>
                 <div className="inline-flex items-center mb-12">
                     <h1 className="text-5xl font-display -mb-4 mr-5">Ultor</h1>
-                    <Image src={logo2022} height={88} width={97} />
+                    <Image src={logo2022} alt="Ultor" height={88} width={97} />
                 </div>
                 <p className="mb-16">Built for the 2022 season, Ultor features a six-falcon tank drivetrain, turret shooter for hub tracking, and the most stunning design to have ever left our workshop.</p>
                 <button className="border-2 border-white rounded-xl bg-none font-bold text-md px-8 py-1">
