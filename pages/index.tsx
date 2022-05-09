@@ -5,7 +5,7 @@ import { Ultor } from '../components/Ultor';
 import logo2022 from '../public/media/logo2022.png';
 
 const Home: NextPage = () => (
-    <div className="text-white bg-[#02040D] text-[20px] py-30 px-60">
+    <div className="text-[20px] py-30 px-60">
         <Bubble
             x={500} y={300}
             vx={1} vy={-1}
