@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Timothy Lyons",
+    "department": "mentor",
+    "image": "/media/portraits/placeholder.jpg"
+  },
+  {
+    "name": "Ali Harb",
+    "department": "mentor",
+    "image": "/media/portraits/placeholder.jpg"
+  },
+  {
+    "name": "Matteo Pesenti",
+    "department": "mechanical",
+    "image": "/media/portraits/matteo-pesenti.jpg"
+  },
+  {
+    "name": "Henry Green",
+    "department": "mechanical",
+    "image": "/media/portraits/henry-green.jpg"
+  },
+  {
+    "name": "Darren Tan",
+    "department": "programming",
+    "image": "/media/portraits/darren-tan.jpg"
+  },
+  {
+    "name": "Michael Romashov",
+    "department": "programming",
+    "image": "/media/portraits/michael-romashov.jpg"
+  },
+  {
+    "name": "Annania Plossl",
+    "department": "mechanical",
+    "image": "/media/portraits/annania-plossl.jpg"
+  },
+  {
+    "name": "John Niewinski",
+    "department": "mechanical",
+    "image": "/media/portraits/john-niewinski.jpg"
+  },
+  {
+    "name": "Daniel Clare",
+    "department": "mechanical",
+    "image": "/media/portraits/daniel-clare.jpg"
+  },
+  {
+    "name": "Thomas Larsen",
+    "department": "mechanical",
+    "image": "/media/portraits/thomas-larsen.jpg"
+  },
+  {
+    "name": "Lily O’Donnell",
+    "department": "mechanical",
+    "image": "/media/portraits/lily-odonnell.jpg"
+  },
+  {
+    "name": "Milo Shaklan",
+    "department": "mechanical",
+    "image": "/media/portraits/milo-shaklan.jpg"
+  },
+  {
+    "name": "Andrey Korolev",
+    "department": "programming",
+    "image": "/media/portraits/andrey-korolev.jpg"
+  },
+  {
+    "name": "Dia Brar",
+    "department": "programming",
+    "image": "/media/portraits/dia-brar.jpg"
+  },
+  {
+    "name": "Joseph Kenny",
+    "department": "mechanical",
+    "image": "/media/portraits/joseph-kenny.jpg"
+  },
+  {
+    "name": "Rushitha Pendam",
+    "department": "mechanical",
+    "image": "/media/portraits/rushitha-pendam.jpg"
+  },
+  {
+    "name": "Willem Long",
+    "department": "mechanical",
+    "image": "/media/portraits/willem-long.jpg"
+  },
+  {
+    "name": "Max Lin",
+    "department": "mechanical",
+    "image": "/media/portraits/max-lin.jpg"
+  },
+  {
+    "name": "Alexander Reyes",
+    "department": "programming",
+    "image": "/media/portraits/alexander-reyes.jpg"
+  },
+  {
+    "name": "Angel Chen",
+    "department": "programming",
+    "image": "/media/portraits/angel-chen.jpg"
+  },
+  {
+    "name": "Gadin Aggarwal",
+    "department": "mechanical",
+    "image": "/media/portraits/gadin-aggarwal.jpg"
+  },
+  {
+    "name": "Kenneth Odeyemi",
+    "department": "mechanical",
+    "image": "/media/portraits/kenneth-odeyemi.jpg"
+  },
+  {
+    "name": "Muhammadsaid Hamrakulov",
+    "department": "mechanical",
+    "image": "/media/portraits/muhammadsaid-hamrakulov.jpg"
+  },
+  {
+    "name": "William Lam",
+    "department": "mechanical",
+    "image": "/media/portraits/william-lam.jpg"
+  },
+  {
+    "name": "Ollin Mortera",
+    "department": "mechanical",
+    "image": "/media/portraits/ollin-mortera.jpg"
+  },
+  {
+    "name": "Marzuq Mir",
+    "department": "mechanical",
+    "image": "/media/portraits/marzuq-mir.jpg"
+  },
+  {
+    "name": "Micah Fisher",
+    "department": "mechanical",
+    "image": "/media/portraits/micah-fisher.jpg"
+  },
+  {
+    "name": "Malachi Dewitt",
+    "department": "mechanical",
+    "image": "/media/portraits/malachi-dewitt.jpg"
+  },
+  {
+    "name": "Stephan McGlashan",
+    "department": "mechanical",
+    "image": "/media/portraits/stephan-mcglashan.jpg"
+  },
+  {
+    "name": "Andrew Piasecki",
+    "department": "mechanical",
+    "image": "/media/portraits/andrew-piasecki.jpg"
+  },
+  {
+    "name": "Jakhona Ikromjonova",
+    "department": "mechanical",
+    "image": "/media/portraits/jakhona-ikromjonova.jpg"
+  },
+  {
+    "name": "Nikolaos Gerakaris",
+    "department": "mechanical",
+    "image": "/media/portraits/nikolaos-gerakaris.jpg"
+  },
+  {
+    "name": "Filippos Kypriotis",
+    "department": "mechanical",
+    "image": "/media/portraits/filippos-kypriotis.jpg"
+  },
+  {
+    "name": "Maryann Leshaj",
+    "department": "mechanical",
+    "image": "/media/portraits/maryann-leshaj.jpg"
+  },
+  {
+    "name": "Rafic Al-Ajam",
+    "department": "mechanical",
+    "image": "/media/portraits/rafic-al-ajam.jpg"
+  },
+  {
+    "name": "Phineas Fawer",
+    "department": "mechanical",
+    "image": "/media/portraits/phineas-fawer.jpg"
+  },
+  {
+    "name": "Makayla Chan",
+    "department": "mechanical",
+    "image": "/media/portraits/makayla-chan.jpg"
+  },
+  {
+    "name": "Lucas Papamitsakis",
+    "department": "programming",
+    "image": "/media/portraits/lucas-papamitsakis.jpg"
+  },
+  {
+    "name": "Sabina Wolfe",
+    "department": "mechanical",
+    "image": "/media/portraits/sabina-wolfe.jpg"
+  },
+  {
+    "name": "Maryam Syeda",
+    "department": "mechanical",
+    "image": "/media/portraits/maryam-syeda.jpg"
+  },
+  {
+    "name": "Aryan Singh",
+    "department": "mechanical",
+    "image": "/media/portraits/aryan-singh.jpg"
+  },
+  {
+    "name": "Naiema Chowdhury",
+    "department": "mechanical",
+    "image": "/media/portraits/naiema-chowdhury.jpg"
+  },
+  {
+    "name": "Winsdon Wong",
+    "department": "mechanical",
+    "image": "/media/portraits/placeholder.jpg"
+  },
+  {
+    "name": "Belinda Lin",
+    "department": "mechanical",
+    "image": "/media/portraits/placeholder.jpg"
+  },
+  {
+    "name": "Cristian Tavarez",
+    "department": "mechanical",
+    "image": "/media/portraits/cristian-tavarez.jpg"
+  },
+  {
+    "name": "Ethan Ponce",
+    "department": "mechanical",
+    "image": "/media/portraits/ethan-ponce.jpg"
+  },
+  {
+    "name": "Kai Lin",
+    "department": "mechanical",
+    "image": "/media/portraits/placeholder.jpg"
+  },
+  {
+    "name": "Oliver Fan-Dalton",
+    "department": "mechanical",
+    "image": "/media/portraits/oliver-fan-dalton.jpg"
+  }
+]
